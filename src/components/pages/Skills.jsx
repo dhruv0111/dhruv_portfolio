@@ -20,7 +20,7 @@ const Skills = () => {
     },
     {
       category: "Other",
-      skills: ["DOCKER", "CI&CD", "AWS (EC2, ECR, ECS)"]
+      skills: ["DOCKER", "CI&CD", "AWS (EC2, ECR, ECS)", "FIREBASE", ]
     }
   ];
 

@@ -18,12 +18,13 @@ const Projects = () => {
       live: "https://66b07d78fa36558174c7d2c4--bespoke-piroshki-b3d934.netlify.app/"
     },
     {
-      title: "Event Booking, Management and Analysis System",
-      description: "Designed a real-time chat application featuring user authentication, private and group chats, live message updates, and a responsive user interface for seamless communication",
-      tech: ["MongoDB", "React", "Express", "Node Js","Socket.io"],
-      github: "https://github.com/dhruv0111/mern-talk-app",
-      live: "https://mern-talk-app-1.onrender.com/login"
+      "title": "Tech Blog",
+      "description": "A full-stack blog application with user authentication, post creation, rich text editing, commenting system, and role-based access control. Built with a scalable backend and a modern, responsive frontend.",
+      "tech": ["React", "Vite", "Redux Toolkit", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "JWT", "Firebase"],
+      "github": "https://github.com/dhruv0111/Tech-Blog",
+      "live": "https://tech-blog-9rd3.onrender.com/"
     }
+    
   ];
 
   return (
