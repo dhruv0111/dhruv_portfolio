@@ -4,7 +4,7 @@ import ProfileImage from "../../assets/images/logodhruv.jpg"
 
 const Home = () => {
   return (
-    <div className="min-h-screen" style={{ backgroundColor: '#e8e6e1' }}> {/* Custom beige background color */}
+    <div className="min-h-screen" style={{ backgroundColor: '#e8e6e1' }}> 
       <div className="max-w-7xl mx-auto px-4 py-16">
         {/* Main Content Section */}
         <div className="relative">
