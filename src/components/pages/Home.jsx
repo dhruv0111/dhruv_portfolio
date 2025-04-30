@@ -50,7 +50,7 @@ const Home = () => {
 
               {/* Additional Links */}
               <div className="mt-6 flex flex-wrap gap-6">
-                <a href="https://drive.google.com/file/d/1DeP9wRcNmumV_iXgpPIhKAmfYCuT4PTk/view" 
+                <a href="https://drive.google.com/file/d/1lBEM2cQciooXp2Hf061zfjfWhb0YjhhF/view?usp=sharing" 
                    target="_blank" 
                    rel="noopener noreferrer"
                    className="flex items-center gap-2 text-gray-700 hover:text-black">
